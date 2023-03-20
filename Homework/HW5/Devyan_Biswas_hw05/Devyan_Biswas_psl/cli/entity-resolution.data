@@ -1,0 +1,14 @@
+predicates:
+    SameMovie/2 : open
+    SimilarDirectors/2 : closed
+    SimilarTitles/2 : closed
+
+observations:
+    SimilarDirectors : ../data/director_obs.txt
+    SimilarTitles : ../data/title_obs.txt
+
+targets:
+    SameMovie : ../data/same_movie_target.txt
+
+truth:
+    SameMovie : ../data/same_movie_truth.txt

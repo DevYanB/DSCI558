@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://ontology.eil.utoronto.ca/icity/Vehicle/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://ontology.eil.utoronto.ca/icity/Vehicle/">
+    <Prefix name="" IRI="http://ontology.eil.utoronto.ca/icity/Vehicle/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="ExpensiveCar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Vehicle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://schema.org/Brand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Accord"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Audi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/BMW"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Benz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/CR-V"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Camry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Civic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Corolla"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/GPS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Honda"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Speedometer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Toyota"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="hasBrand"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="hasPart"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="hasCapacitySize"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="hasMoney"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="hasQuantity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="hasSpeed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Accord2022"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CR-V2022"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Camry2022"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Civic2022"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Corolla2022"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="ExpensiveCar"/>
+        <ObjectIntersectionOf>
+            <Class IRI="Vehicle"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="hasMoney"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:integer"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">40000</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Accord"/>
+        <Class IRI="Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Accord"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="http://schema.org/Brand"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Accord"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasPart"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Accord"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Honda"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Audi"/>
+        <Class IRI="http://schema.org/Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/BMW"/>
+        <Class IRI="http://schema.org/Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Benz"/>
+        <Class IRI="http://schema.org/Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/CR-V"/>
+        <Class IRI="Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/CR-V"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="http://schema.org/Brand"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/CR-V"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasPart"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/CR-V"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Honda"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Camry"/>
+        <Class IRI="Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Camry"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="http://schema.org/Brand"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Camry"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasPart"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Camry"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Toyota"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Civic"/>
+        <Class IRI="Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Civic"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="http://schema.org/Brand"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Civic"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasPart"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Civic"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Honda"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Corolla"/>
+        <Class IRI="Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Corolla"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="http://schema.org/Brand"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Corolla"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="hasPart"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Corolla"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="hasBrand"/>
+            <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Toyota"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/GPS"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Honda"/>
+        <Class IRI="http://schema.org/Brand"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Speedometer"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Toyota"/>
+        <Class IRI="http://schema.org/Brand"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="Vehicle"/>
+        <Class IRI="http://schema.org/Brand"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/VehicleParts"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Accord"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/CR-V"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Camry"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Civic"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Corolla"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Audi"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/BMW"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Benz"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Honda"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Toyota"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/GPS"/>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Speedometer"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Accord"/>
+        <NamedIndividual IRI="Accord2022"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/CR-V"/>
+        <NamedIndividual IRI="CR-V2022"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Camry"/>
+        <NamedIndividual IRI="Camry2022"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Civic"/>
+        <NamedIndividual IRI="Civic2022"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://spec.edmcouncil.org/auto/ontology/VC/Corolla"/>
+        <NamedIndividual IRI="Corolla2022"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasCapacitySize"/>
+        <NamedIndividual IRI="Accord2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasMoney"/>
+        <NamedIndividual IRI="Accord2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">40000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasSpeed"/>
+        <NamedIndividual IRI="Accord2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">145</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasCapacitySize"/>
+        <NamedIndividual IRI="CR-V2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">7</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasMoney"/>
+        <NamedIndividual IRI="CR-V2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">45000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasSpeed"/>
+        <NamedIndividual IRI="CR-V2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">140</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasCapacitySize"/>
+        <NamedIndividual IRI="Camry2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasMoney"/>
+        <NamedIndividual IRI="Camry2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">40000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasSpeed"/>
+        <NamedIndividual IRI="Camry2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">155</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasCapacitySize"/>
+        <NamedIndividual IRI="Civic2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasMoney"/>
+        <NamedIndividual IRI="Civic2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">30000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasSpeed"/>
+        <NamedIndividual IRI="Civic2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">137</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasCapacitySize"/>
+        <NamedIndividual IRI="Corolla2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasMoney"/>
+        <NamedIndividual IRI="Corolla2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">35000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="hasSpeed"/>
+        <NamedIndividual IRI="Corolla2022"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">140</Literal>
+    </DataPropertyAssertion>
+    <SubDataPropertyOf>
+        <DataProperty IRI="hasCapacitySize"/>
+        <DataProperty IRI="hasQuantity"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="hasMoney"/>
+        <DataProperty IRI="hasQuantity"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="hasSpeed"/>
+        <DataProperty IRI="hasQuantity"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="hasCapacitySize"/>
+        <Class IRI="Vehicle"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="hasMoney"/>
+        <Class IRI="Vehicle"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="hasSpeed"/>
+        <Class IRI="Vehicle"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="hasCapacitySize"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="hasMoney"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="hasSpeed"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

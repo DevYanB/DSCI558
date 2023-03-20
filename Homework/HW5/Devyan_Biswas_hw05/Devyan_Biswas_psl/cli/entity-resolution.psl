@@ -1,0 +1,6 @@
+2: !SameMovie(A, B) ^2
+
+1 : SimilarDirectors(A, B) & SimilarTitles(A, B) -> SameMovie(A, B) ^2
+1 : SimilarDirectors(B, A) & SimilarTitles(B, A) -> SameMovie(B, A) ^2
+
+SameMovie(A, B) = SameMovie(B, A) . 
