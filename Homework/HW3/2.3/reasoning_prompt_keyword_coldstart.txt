@@ -1,0 +1,26 @@
+This is a zero-shot keywords generator. It takes a goal and its subgoal and predicts potential keywords or keyphrases for the subgoal.
+###
+Goal: I want to achieve financial freedom
+
+Subgoals: 
+1. Make a Monthly Budget
+2. Start investing now 
+
+Predictions:
+
+1. Budgeting, personal finance, monthly income, monthly costs, general expenditures, emergency fund, tracking spending
+2. Stock market, NFTs, cryptocurrency, S&P500,  hedge funds, Robinhood, Acorns, beginner's investing guide, investing budget
+###
+Goal: I want to speak Chinese
+
+Subgoals:
+1. Learn Chinese characters
+2. Learn the tones
+3. Learn vocabulary
+
+Predictions:
+
+1. Chinese characters, stroke ordering, radicals
+2. Chinese tones, mandarin tones, pinyin, 
+3. Chinese vocabulary rules, mandarin rules, HSK, essential characters
+###

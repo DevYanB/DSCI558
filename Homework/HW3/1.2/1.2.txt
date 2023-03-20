@@ -1,0 +1,25 @@
+PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+#added before 2016-10
+SELECT ?series ?seriesLabel (COUNT(?book) AS ?numBooks) (GROUP_CONCAT(DISTINCT(?author); separator=", ") as ?authsURIs) (GROUP_CONCAT(DISTINCT(?authorLabel); separator=", ") as ?authorLabels) 
+# GROUP_CONCAT(?author;SEPARATOR=",") call it ?Acts
+WHERE
+{
+    ?series wdt:P31 wd:Q277759.
+    ?book wdt:P179 ?series .
+    ?book wdt:P31 wd:Q571 .
+    ?book wdt:P50 ?author.
+#    ?author wdt:name
+    SERVICE wikibase:label {
+        bd:serviceParam wikibase:language "en" .
+        ?author rdfs:label ?authorLabel .
+        ?series rdfs:label ?seriesLabel .
+    }
+
+}
+GROUP BY ?series ?seriesLabel
+HAVING (?numBooks >= 10)
+LIMIT 10

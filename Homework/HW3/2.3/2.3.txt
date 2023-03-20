@@ -1,0 +1,30 @@
+PREFIX fo: <http://www.w3.org/1999/XSL/Format#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dcs: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX movie: <http://data.linkedmdb.org/movie/>
+PREFIX db_ont: <http://dbpedia.org/ontology/>
+PREFIX db_rec: <http://dbpedia.org/resource/>
+prefix db_prop:	<http://dbpedia.org/property/> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT DISTINCT ?outerName ?dob ?gender WHERE { 
+  ?actor a movie:actor .
+	service silent <http://dbpedia.org/sparql> {
+    	SELECT DISTINCT ?internalActor ?dob ?gender WHERE{
+      		?internalActor a db_ont:Actor.
+      		?internalActor db_prop:birthDate ?dob.
+      		?internalActor db_prop:gender ?gender.
+      		FILTER(UCASE(str(?gender)) = "FEMALE")
+    	}
+    	LIMIT 200
+  }
+  FILTER(YEAR(?dob)  <= 1970)
+  
+  ?actor movie:actor_name ?outerName.
+  ?actor owl:sameAs ?internalActor.
+}
+order by asc(?dob)
+LIMIT 20

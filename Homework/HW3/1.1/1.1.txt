@@ -1,0 +1,28 @@
+SELECT ?itemLabel (COUNT(DISTINCT(year(xsd:dateTime(?timeLabel)))) as ?timesWon)
+{
+    ?item wdt:P106 wd:Q937857 ;
+     p:P166 ?awardStat.
+     ?awardStat pq:P585 ?time .  
+     ?awardStat ps:P166 ?awardName . 
+     FILTER(?awardName IN (wd:Q166177, 
+                           wd:Q2291862,
+                           wd:Q218551, 
+                           wd:Q22227072,
+                           wd:Q1139419,
+                           wd:Q611968,
+                           wd:Q15114097,
+                           wd:Q18346574,
+                           wd:Q20978666,
+                           wd:Q218551
+                          ))
+    FILTER(year(?time) >= 2000)
+  SERVICE wikibase:label {              
+        bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+          ?item rdfs:label ?itemLabel .     
+          ?time rdfs:label ?timeLabel .     
+  }
+}
+
+GROUP BY ?itemLabel
+ORDER BY DESC(?timesWon)
+LIMIT 10

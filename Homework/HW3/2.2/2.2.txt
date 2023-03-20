@@ -1,0 +1,13 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX movie: <http://data.linkedmdb.org/movie/>
+
+SELECT ?filmTitle (group_concat(?actorName; separator=", ") as ?actors) WHERE { 
+  ?film a movie:film ;
+  
+  dcterms:title ?filmTitle ;
+  movie:actor [ a movie:actor ;
+  movie:actor_name ?actorName ].
+}
+group by ?filmTitle
+order by asc(UCASE(?filmTitle))
+LIMIT 20
