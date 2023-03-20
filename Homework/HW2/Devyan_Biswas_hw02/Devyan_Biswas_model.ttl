@@ -1,0 +1,945 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <https://schema.org/> .
+
+schema:1049.397 a schema:Book ;
+    schema:abstract "As If: An Autobiography traces the complex life and career of director, scholar, and theorist Herbert Blau, one of the most innovative voices in the American theater. From his earliest years on the streets of Brooklyn, with gang wars there, to the often embattled, now-legendary Actor's Workshop of San Francisco, the powerfully told story of Blau's first four decades is also a social history, moving from the Great Depression to the cold war, with fallout from \"the balance of terror\" on what he once described in an incendiary manifesto as The Impossible Theater. Blau has always forged his own path, from his activist resistance to the McCarthy witch hunts to his emergence as a revolutionary director whose work included the controversial years at The Workshop, which introduced American audiences to major playwrights of the European avant-garde, including Brecht, Beckett, Genet, and Pinter. There is also an account here of that notorious production of Waiting for Godot at the maximum-security prison at San Quentin, which became the insignia of the Theater of the Absurd. Blau went on from The Workshop to become codirector of the Repertory Theater of Lincoln Center, and then founding provost of California Institute of the Arts, where he developed and became artistic director of the experimental group KRAKEN. Currently Byron W. and Alice L. Lockwood Professor of the Humanities at the University of Washington, Blau has been visionary in the passage from theater to theory, and his many influential and award-winning books include The Dubious Spectacle: Extremities of Theater, 1976–2000; Sails of the Herring Fleet: Essays on Beckett; Nothing in Itself: Complexions of Fashion; To All Appearances: Ideology and Performance; The Audience; The Eye of Prey: Subversions of the Postmodern; and Take Up the Bodies: Theater at the Vanishing Point. This richly evocative book includes never-before-published photographs of the author, his family and friends, collaborators in the theater, and theater productions." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Herbert Blau"^^schema:author ] ;
+    schema:datePublished "June 8th 2011"^^schema:datePublished ;
+    schema:isbn "9780472117"^^schema:ISBN ;
+    schema:isbn13 "9780472035144"^^schema:ISBN ;
+    schema:name "As If: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "University of Michigan Press, University of Michigan Press"^^schema:publisher ;
+    schema:rating "0.0"^^schema:contentRating .
+
+schema:1097.3133 a schema:Book ;
+    schema:abstract "An abbreviated autobiography by the Ex-President of the Southern Confederacy published a month after his death in \"Belford's Magazine\". The years before & after the War Between the States are the focus of this brief account of his life. A detailed chronological outline of the life of Mr. Davis precedes the autobiography. Each section has been extracted from \"Jefferson Davis Constitutionalist: His Letters, Papers and Speeches,\" Vol. 1, Compiled and Edited by Dunbar Rowland, 1923." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Jefferson Davis"^^schema:author ] ;
+    schema:datePublished "November 4th 2010"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940012704610"^^schema:ISBN ;
+    schema:name "Autobiography of Jefferson Davis [1890]" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Strait Gate Publication, Strait Gate Publications, Charlotte, NC"^^schema:publisher ;
+    schema:rating "3.67"^^schema:contentRating .
+
+schema:110.116 a schema:Book ;
+    schema:abstract "This Halcyon Classics ebook is the AUTOBIOGRAPHY OF ANDREW CARNEGIE, a leading Scottish-American industrialist, businessman, entrepreneur and philanthropist. Contains an active table of contents for easy navigation." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Andrew Carnegie"^^schema:author ] ;
+    schema:datePublished "October 18th 2010"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940012693211"^^schema:ISBN ;
+    schema:name "The Autobiography of Andrew Carnegie" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$72.89"^^schema:price ;
+            schema:nook_price "$0.99"^^schema:price ;
+            schema:paper_price "$72.89"^^schema:price ] ;
+    schema:publisher "Halcyon Press Ltd., Halcyon Press Ltd."^^schema:publisher ;
+    schema:rating "3.8"^^schema:contentRating .
+
+schema:1136.317 a schema:Book ;
+    schema:abstract "Published to commemorate Albert Schweitzer’s only visit to the United States 60 years ago, this anniversary edition of his autobiography gives 21st-century readers a unique and authoritative account of the man John F. Kennedy called \"one of the transcendent moral influences of our century.\" Schweitzer is celebrated around the world as a European pioneer of medical service in Africa, a groundbreaking philosopher and musical scholar, and a catalyst of environmental and peace activism. Yet people most revere Schweitzer for his dedication to serving others and his profound and influential ethic of reverence for life. For Schweitzer, reverence for life was not a theory or a philosophy but a discovery—a recognition that the capacity to experience and act on a reverence for all life is a fundamental part of human nature, a characteristic that sets human beings apart from the rest of the natural world. This anniversary edition coincides with several high profile celebrations of his 1949 visit, as well as the release of a new feature film starring Jeroen Krabbe and Barbara Hershey. In addition to a foreword by Nobel Laureate and former U.S. President Jimmy Carter, this edition features a new foreword by Lachlan Forrow, president of The Albert Schweitzer Fellowship. --This text refers to the Paperback edition." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Albert Schweitzer"^^schema:author ] ;
+    schema:datePublished "October 7th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781466882942"^^schema:ISBN ;
+    schema:name "Out of My Life and Thought: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$7.99"^^schema:price ;
+            schema:paper_price "$23.84"^^schema:price ] ;
+    schema:publisher "Henry Holt and Co., Holt, Henry &amp; Company, Inc."^^schema:publisher ;
+    schema:rating "4.5"^^schema:contentRating .
+
+schema:1214.153 a schema:Book ;
+    schema:abstract "A witty but insightful narration of ‘normal’ and ‘orderly’ cultural realisms of contemporary world, from the perspective of a young duffer. This duffer believes; a normal person should know how this world looks to a stupid, whom the world loves to label ‘abnormal’ and ‘disordered’, to truly visualize realities of benchmarking. This duffer’s wife asked him to make it different; he truly does it!" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Santosh Jha"^^schema:author ] ;
+    schema:datePublished "November 25th 2013"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940045462426"^^schema:ISBN ;
+    schema:name "Autobiography Of A Duffer" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Smashwords, Santosh Jha"^^schema:publisher ;
+    schema:rating "3.0"^^schema:contentRating .
+
+schema:1358.901 a schema:Book ;
+    schema:abstract "Ian Thorpe's achievements in the water are nothing short of phenomenal. He has won a record-holding eleven World Championship titles and ten Commonwealth Games gold medals. He has broken twenty-two world records and won five gold, three silver and one bronze Olympic medals. Having been under the spotlight since he was a young teenager, Thorpe retired from competitive swimming in 2006 because of the intense pressure he felt, but five years later he decided to make a hugely publicised comeback. Ian is one of the world's most successful sportsmen, but it is the way he has managed his triumphs and his commitment to helping others that have earned him respect and admiration internationally. Thorpe's autobiography follows him all the way from his childhood in Sydney right up to the London Olympics.This is a man who has had highs and lows away from the pool, who has led an extraordinary life of an elite athlete that most of us will never know, who has faced up to his own demons, and who has the courage to come back and stake his claim for the ultimate goal once more." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Ian Thorpe"^^schema:author ] ;
+    schema:datePublished "October 24th 2012"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780731815739"^^schema:ISBN ;
+    schema:name "This Is Me: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$27.38"^^schema:price ;
+            schema:nook_price "$10.99"^^schema:price ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Simon & Schuster UK, Simon &amp; Schuster Australia"^^schema:publisher ;
+    schema:rating "3.58"^^schema:contentRating .
+
+schema:1436.149 a schema:Book ;
+    schema:abstract "An anthology of 50 classic autobiographies with an active table of contents to make it easy to quickly find the book you are looking for. The Americanization of Edward Bok by Edward Bok Autobiography By John Stuart Mill Autobiography of a Pocket-Handkerchief by James Fenimore Coopoer The Autobiography of an Ex-Colored Man by James Weldon Johnson Autobiography of Andrew Carnegie by Andrew Carnegie Autobiography of Anthony Trollope by Anthony Trollope The Autobiography of Benjamin Franklin by Benjamin Franklin The Autobiography of Charles Darwin The Autobiography of \"Cockney Tom\" by Thomas Bastard Autobiography by Johann Wolfgang von Goethe Autobiography of Ma-ka-tai-me-she-kia-kiak, or Black Hawk by Black Hawk The Autobiography of Mother Jones by Mary Harris Jones A Ball Player's Career by Adrian C. Anson Boyhood by Leo Tolstoy Captivity and Restoration by Mrs. Mary Rowlandson Certain Personal Matters by H. G. Wells Childhood by Jacques Casanova The Citizen-Soldier by John Beatty Confederate Girl's Diary by Sarah Margan Dawson The Confessions by Jean Jacques Rousseau The Diary of a U-boat Commander by Anonymous The Education of Henry Adams by Henry Adams Fifteen Years in Hell by Luther Benson Grace Abounding to the Chief of Sinners by John Bunyan A Gunner Aboard the 'Yankee' by Russell Doubleday Incidents in the Life of a Slave Girl by Harriet Jacobs Life On The Mississippi by Mark Twain Life on the Stage by Clara Morris The Making of an American by Jacob A. Riis Memoir of the Life of John Quincy Adams by Josiah Quincy My Life and Work by Henry Ford Mongolian Plains by Roy Chapman Andrews Narrative of the Life of Frederick Douglass by Frederick Douglass Ohio Woman in the Philippines by Emily Bronson Conger Paris War Days by Charles Inman Barnard The Real Diary of a Real Boy by Henry A. Shute Seven and Nine years Among the Camanches by Edwin Eastman \"Shiloh\" as Seen by a Private Soldier by Warren Olney A Slave Girl's Story by Kate Drumgoold A Soldier's Life Story of My Life by Helen Keller The Story Of My Life From Childhood To Manhood by Georg Ebers Theodore Roosevelt, An Autobiography by Theodore Roosevelt To the Gold Coast for Gold by Richard F. Burton Up From Slavery: An Autobiography by Booker T. Washington Walden by Henry David Thoreau War Birds: Diary of an Unknown Aviator by Anonymous A Warrior's Daughter by Zitkala-Sa The Yosemite by John Muir" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Booker T. Washington"^^schema:author,
+                "Golgotha Press"^^schema:author,
+                "Henry David Thoreau"^^schema:author,
+                "John Muir"^^schema:author,
+                "Theodore Roosevelt"^^schema:author ] ;
+    schema:datePublished "February 3rd 2011"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940012105042"^^schema:ISBN ;
+    schema:name "50 Classic Autobiographies" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Golgotha Press, Golgotha Press"^^schema:publisher ;
+    schema:rating "5.0"^^schema:contentRating .
+
+schema:1703.536 a schema:Book ;
+    schema:abstract "Alan Sugar was born in 1947 and brought up on a council estate in Clapton, in Hackney. As a kid he watched his dad struggle to support the family, never knowning from one week to the next if he'd have a job. It had a huge impact on him, fuelling a drive to succeed that was to earn him a sizeable personal fortune. Now he describes his amazing journey, from schoolboy enterprises like making and selling his own ginger beer to setting up his own company at nineteen; from Amstrad's groundbreaking ventures in hi-fi and computers, which made him the darling of the stock exchange, to the dark days when he nearly lost it all; from his pioneering deal with Rupert Murdoch to his boardroom battles at Tottenham Hotspur FC. He takes us into the world of The Apprentice, and describes his appointment as advisor to the government and elevation to the peerage. Like the man himself, this autobiography is forthright, funny and sometimes controversial." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Alan Sugar"^^schema:author ] ;
+    schema:datePublished "September 30th 2010"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780230754737"^^schema:ISBN ;
+    schema:name "What You See Is What You Get: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$9.99"^^schema:price ;
+            schema:paper_price "$11.68"^^schema:price ] ;
+    schema:publisher "Pan Macmillan, Pan Macmillan"^^schema:publisher ;
+    schema:rating "3.75"^^schema:contentRating .
+
+schema:1731.476 a schema:Book ;
+    schema:abstract "Roland Johnson spent half his childhood at Pennhurst State School and Hospital for the Mentally Retarded, where he was sexually abused and, essentially, enslaved. When he'd won his freedom as a young adult, he spent several years putting his life back together and learning to control the anger his experience at Pennhurst had kindled in him. And then he happened upon the Philadelphia-based group Speaking For Ourselves. He quickly rose to the presidency and, in the spirit of Martin Luther King, Jr., whose career he'd followed and whose death he learned of at Pennhurst, was soon traveling across the US and to Canada and England to speak to other fledgling self-advocacy groups and at conferences of professionals, and to work toward establishing a US national self-advocacy organization. Originally published after Johnson's death by Speaking For Ourselves, the group Johnson headed up for much of the 1990s, the book sold out its first small printing. One reviewer called it \". . .a work of pioneering authenticity.\" Karl Williams has also written a play of the same title, based on the book. \"Roland Johnson was a friend and a hero of mine. He was a great pioneer of the frontier of human being. Read his book.\" - Justin Dart, \"Father of the of the ADA” (Americans With Disabilities Act)" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Karl Williams"^^schema:author,
+                "Roland Johnson"^^schema:author ] ;
+    schema:datePublished "January 1st 1999"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781483513478"^^schema:ISBN ;
+    schema:name "Lost in a Desert World: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "BookBaby, BookBaby"^^schema:publisher ;
+    schema:rating "0.0"^^schema:contentRating .
+
+schema:176.31 a schema:Book ;
+    schema:abstract "It is not my purpose to attempt a real autobiography. I simply want to tell the story of my numerous experiments with truth, and as my life consists of nothing but those experiments, it is true that the story will take the shape of an autobiography. ...Identification with everything that lives is impossible without self-purification; without self-purification, the observance of the law of Ahimsa must remain an empty dream; God can never be realised by one who is not pure of heart. Self-purification, therefore, must remain purification in all walks of life. And purification being highly infectious, purification of oneself necessarily leads to the purification of one's surroundings. But the path to self-purification is hard and steep. To attain perfect purity, one has to become absolutely passion-free in thought, speech and action; to rise above the opposing currents of love and hatred, attachment and repulsion. I know that I have not in me as yet the triple purity, in spite of constant ceaseless striving for it. That is why the world's praise fails to move me; indeed it very often stings me. To conquer the subtle passions seems to me far harder than the physical conquest of the world by the force of arms. Ever since my return to India, I have had experiences of the dormant passions lying hidden within me. The knowledge of them has made me feel humiliated though not defeated. The experiences and experiments have sustained me and given me great joy. But I know I still have before me a difficult path to traverse. I must reduce myself to zero. So long as a man does not of his own free will put himself last among his fellow creatures, there is no salvation for him. Ahimsa is the farthest limit of humility. Mohandas Karamchand Gandhi, 26 November, 1925." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Mahatma Gandhi"^^schema:author,
+                "Mohandas K. Gandhi"^^schema:author ] ;
+    schema:datePublished "1948"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780807059098"^^schema:ISBN ;
+    schema:name "An Autobiography: The Story of My Experiments with Truth" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$6.49"^^schema:price ;
+            schema:paper_price "$10.76"^^schema:price ] ;
+    schema:publisher "Navajivan Publishing House (Ahmedabad), Beacon Press"^^schema:publisher ;
+    schema:rating "4.07"^^schema:contentRating .
+
+schema:1943.1851 a schema:Book ;
+    schema:abstract "This work has been previously published and carefully edited by humans to be read digitally on your eReader. Please enjoy this historical and classic work. All of our titles are only 99 cents and are formatted to work with the Nook. Also, if it is an illustrated work, you will be able to see all of the original images. This makes them the best quality classic works available for the lowest price. So enjoy this classic work as if it were the original book!" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Catherine Helen Spence"^^schema:author,
+                "Spence, Catherine Helen"^^schema:author ] ;
+    schema:datePublished "November 30th 2010"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940149500239"^^schema:ISBN ;
+    schema:name "An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$2.99"^^schema:price ;
+            schema:paper_price "$16.90"^^schema:price ] ;
+    schema:publisher "Quality Classics, The Perfect Library"^^schema:publisher ;
+    schema:rating "0.0"^^schema:contentRating .
+
+schema:1943.3592 a schema:Book ;
+    schema:abstract "This work has been previously published and carefully edited by humans to be read digitally on your eReader. Please enjoy this historical and classic work. All of our titles are only 99 cents and are formatted to work with the Nook. Also, if it is an illustrated work, you will be able to see all of the original images. This makes them the best quality classic works available for the lowest price. So enjoy this classic work as if it were the original book!" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Catherine Helen Spence"^^schema:author,
+                "Spence, Catherine Helen"^^schema:author ] ;
+    schema:datePublished "November 30th 2010"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940015526080"^^schema:ISBN ;
+    schema:name "An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Quality Classics, Library of Alexandria"^^schema:publisher ;
+    schema:rating "0.0"^^schema:contentRating .
+
+schema:1991.390 a schema:Book ;
+    schema:abstract "The long-awaited autobiography of the legendary hurler Henry Shefflin In an era when Kilkenny established itself as the dominant force in hurling, one man stood out from a remarkable group of players: Henry Shefflin. Now widely regarded as the greatest player of all time, Shefflin has more All-Stars, Hurler of the Year awards and All-Ireland medals than any other hurler. But beneath the surface image of calm efficiency and effortless genius, his hurling life has included its share of bitter disappointments, agonizing injuries and intense rivalries. Now, in what will be an essential read, Shefflin tells his own story. 'The greatest player of this, or perhaps any, generation' Sean Moran, Irish Times" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Henry Shefflin"^^schema:author ] ;
+    schema:datePublished "September 24th 2015"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780241961704"^^schema:ISBN ;
+    schema:name "The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Penguin, Penguin UK"^^schema:publisher ;
+    schema:rating "0.0"^^schema:contentRating .
+
+schema:1991.573 a schema:Book ;
+    schema:abstract "The long-awaited autobiography of the legendary hurler Henry Shefflin In an era when Kilkenny established itself as the dominant force in hurling, one man stood out from a remarkable group of players: Henry Shefflin. Now widely regarded as the greatest player of all time, Shefflin has more All-Stars, Hurler of the Year awards and All-Ireland medals than any other hurler. But beneath the surface image of calm efficiency and effortless genius, his hurling life has included its share of bitter disappointments, agonizing injuries and intense rivalries. Now, in what will be an essential read, Shefflin tells his own story. 'The greatest player of this, or perhaps any, generation' Sean Moran, Irish Times" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Henry Shefflin"^^schema:author,
+                "Marie Helvin"^^schema:author ] ;
+    schema:datePublished "September 24th 2015"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781780227030"^^schema:ISBN ;
+    schema:name "The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$6.99"^^schema:price ;
+            schema:paper_price "$6.99"^^schema:price ] ;
+    schema:publisher "Penguin, Orion Publishing Group, Limited"^^schema:publisher ;
+    schema:rating "0.0"^^schema:contentRating .
+
+schema:2019.989 a schema:Book ;
+    schema:abstract "This classic study of the working life of a professional writer is one of the best - and also one of the strangest - autobiographies ever written. After a miserable childhood and misspent youth, Trollope turned his life around at the age of twenty-six. By 1860 the 'hobbledehoy' had become both a senior civil servant and a best-selling novelist. He worked for the Post Office for many years and stood unsuccessfully for Parliament. Best-known for the two series of novels grouped loosely around the clerical and political professions, the Barsetshire and Palliser series, in his Autobiography Trollope frankly describes his writing habits. His apparent preoccupation with contracts, deadlines, and earnings, and his account of the remorseless regularity with which he produced his daily quota of words, has divided opinion ever since. As the Introduction to this edition shows, Trollope selected and exaggerated to create his compelling narrative of initial failure and eventual success, and the inspiration that fuelled his creative imagination has too easily been overlooked. The only autobiography by a major Victorian novelist, Trollope's record offers a fascinating insight into his literary life and opinions. This edition also includes a selection of his critical writings to show how subtle and complex his approach to literature really was." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Anthony Trollope"^^schema:author,
+                "Nicholas Shrimpton"^^schema:author ] ;
+    schema:datePublished "October 9th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780191662782"^^schema:ISBN ;
+    schema:name "An Autobiography: and Other Writings" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$29.95"^^schema:price ;
+            schema:nook_price "$16.49"^^schema:price ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "OUP Oxford, OUP Oxford"^^schema:publisher ;
+    schema:rating "3.0"^^schema:contentRating .
+
+schema:2127.989 a schema:Book ;
+    schema:abstract "This classic study of the working life of a professional writer is one of the best - and also one of the strangest - autobiographies ever written. After a miserable childhood and misspent youth, Trollope turned his life around at the age of twenty-six. By 1860 the 'hobbledehoy' had become both a senior civil servant and a best-selling novelist. He worked for the Post Office for many years and stood unsuccessfully for Parliament. Best-known for the two series of novels grouped loosely around the clerical and political professions, the Barsetshire and Palliser series, in his Autobiography Trollope frankly describes his writing habits. His apparent preoccupation with contracts, deadlines, and earnings, and his account of the remorseless regularity with which he produced his daily quota of words, has divided opinion ever since. As the Introduction to this edition shows, Trollope selected and exaggerated to create his compelling narrative of initial failure and eventual success, and the inspiration that fuelled his creative imagination has too easily been overlooked. The only autobiography by a major Victorian novelist, Trollope's record offers a fascinating insight into his literary life and opinions. This edition also includes a selection of his critical writings to show how subtle and complex his approach to literature really was." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Anthony Trollope"^^schema:author,
+                "Nicholas Shrimpton"^^schema:author ] ;
+    schema:datePublished "October 9th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780191662782"^^schema:ISBN ;
+    schema:name "An Autobiography: and Other Writings" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$29.95"^^schema:price ;
+            schema:nook_price "$16.49"^^schema:price ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "OUP Oxford, OUP Oxford"^^schema:publisher ;
+    schema:rating "3.0"^^schema:contentRating .
+
+schema:2188.556 a schema:Book ;
+    schema:abstract "ERIC BRISTOW MBE is considered to be the greatest darts player of all time. He was an unmistakable figure on the oche during his 1980s heyday, and became renowned not just for the number of world titles he won but for his arrogance on stage and off it. In this candid account Bristow reveals how darts proved a salvation from his early life as a cat burglar, shoplifter and thug, introducing him to a new world of beer, babes and undreamed of success. And in his rapid rise to the top he gives fascinating insights into the characters that pioneered darts in those early days and how, when his own career began to slide at the end of the decade, he trained his protégé Phil 'The Power' Taylor, turning him into the most successful player darts has ever known. Bristow holds nothing back as he reveals his battle with dartitis, a psychological condition which left him unable to let go of the dart and almost destroyed his career; his relationship with girlfriend and former women's world darts champion Maureen Flowers; and his occasional all-too-public falls from grace. Bristow's life story is a thrill-a-minute ride through the raucous world of darts and how it has helped to shape and drive his life over the past forty years." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Eric Bristow"^^schema:author ] ;
+    schema:datePublished "September 15th 2009"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781409063162"^^schema:ISBN ;
+    schema:name "Eric Bristow: The Autobiography: The Crafty Cockney" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$8.99"^^schema:price ;
+            schema:paper_price "$14.40"^^schema:price ] ;
+    schema:publisher "Cornerstone Digital, Random House"^^schema:publisher ;
+    schema:rating "3.4"^^schema:contentRating .
+
+schema:2311.842 a schema:Book ;
+    schema:abstract "In this tongue-in-cheek narrative of the development of his sexuality, gay erotica author Steve Nugent leads readers through the maze of time and place to the ultimate realization that beginnings hold all the clues to the outcome." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Steve Nugent"^^schema:author ] ;
+    schema:datePublished "August 22nd 2011"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940013035492"^^schema:ISBN ;
+    schema:name "Unauthorised Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "JMS Books LLC, JMS Books LLC"^^schema:publisher ;
+    schema:rating "2.0"^^schema:contentRating .
+
+schema:2372.6 a schema:Book ;
+    schema:abstract "The Autobiography of James T. Kirk chronicles the greatest Starfleet captain's life (2233–2371), in his own words. From his birth on the U.S.S. Kelvin, his youth spent on Tarsus IV, his time in the Starfleet Academy, his meteoric raise through the ranks of Starfleet, and his illustrious career at the helm of the Enterprise, this in-world memoir uncovers Captain Kirk in a way Star Trek fans have never seen. Kirk's singular voice rings throughout the text, giving insight into his convictions, his bravery, and his commitment to the life—in all forms—throughout this Galaxy and beyond. Excerpts from his personal correspondence, captain's logs, and more give Kirk's personal narrative further depth." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "David A. Goodman"^^schema:author ] ;
+    schema:datePublished "September 8th 2015"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781783297467"^^schema:ISBN ;
+    schema:name "The Autobiography of James T. Kirk" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$14.87"^^schema:price ;
+            schema:nook_price "$5.19"^^schema:price ;
+            schema:paper_price "$9.99"^^schema:price ] ;
+    schema:publisher "Titan Books, Titan"^^schema:publisher ;
+    schema:rating "4.14"^^schema:contentRating .
+
+schema:2395.474 a schema:Book ;
+    schema:abstract "THE REAL STORY BEHIND INXS'S RISE TO FAME -- AND HOW THEY HELPED DEFINE THE MUSIC OF A GENERATION. INXS broke new musical ground. This Australian band, made up of three brothers and their three best mates, took the world by storm, turning rock, pop, and funk into a cutting edge, danceable style, and selling more than thirty million albums worldwide. INXS: Story to Story tells the tale of their incredible journey, from playing the world's biggest concert venues to living a high life rivaling any in rock history, filled with sex, drugs, and supermodels. Now for the first time, they reveal everything they experienced in their more than two decades of making music -- the partying, the pressure, the wild times on the road, the heights and depths of rock-star life, and the bonds of brotherhood and friendship that not only got them through the tough times but made the fun times even more intense. They also talk about the sadness of watching their closest friend and collaborator, Michael Hutchence, slipping away from them, and share their thoughts about why he left them far too soon. Fully authorized and reflecting the band's firsthand point of view, this is the real story behind the phenomenon that is INXS -- and the book every rock fan will need to own." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Anthony Bozza"^^schema:author,
+                "INXS"^^schema:author,
+                "INXS Publications"^^schema:author ] ;
+    schema:datePublished "May 11th 2010"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780743290029"^^schema:ISBN ;
+    schema:name "INXS: Story to Story: The Official Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$13.99"^^schema:price ;
+            schema:paper_price "$13.99"^^schema:price ] ;
+    schema:publisher "Atria Books, Atria Books"^^schema:publisher ;
+    schema:rating "4.5"^^schema:contentRating .
+
+schema:2550.2556 a schema:Book ;
+    schema:abstract [ ] ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Rikki Fulton"^^schema:author ] ;
+    schema:datePublished "October 23rd 2013"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781845027636"^^schema:ISBN ;
+    schema:name "Is it That Time Already?: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$2.90"^^schema:price ;
+            schema:paper_price "$2.90"^^schema:price ] ;
+    schema:publisher "Black & White Publishing, Black &amp; White Publishing"^^schema:publisher ;
+    schema:rating "5.0"^^schema:contentRating .
+
+schema:2560.1453 a schema:Book ;
+    schema:abstract "Charlie Miller was the best young Scottish footballer of his generation. He made his Rangers debut under Walter Smith aged just seventeen and became a vital part of the Ibrox club's legendary nine-in-a-row squad. Miller won four league titles and one League Cup with Rangers, but it was a career full of controversy and regrets as well as victories and silverware. Now, in The Proper Charlie , Charlie Miller reveals the real inside story of his incredible life and career, from his upbringing in Castlemilk, one of Glasgow's toughest housing estates, to his unusual family set-up and his feelings on never knowing who his father was. He explains how the gang culture he was involved in almost ended his Rangers career before it had started and speaks openly about the impact drugs, alcohol and gambling have had on his life. Charlie also takes us inside the Ibrox dressing-room, where he mixed with iconic figures like Ally McCoist, Brian Laudrup and Paul Gascoigne, and explains how he went from Rangers hero to rock bottom � with spells at Dundee United and overseas along the way � in an incredible and turbulent few years. Charlie Miller has seen it all and done most of it � and this is his must-read story." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Alice McDermott"^^schema:author,
+                "Charlie Miller"^^schema:author,
+                "Scott McDermott"^^schema:author ] ;
+    schema:datePublished "November 17th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781845028909"^^schema:ISBN ;
+    schema:name "The Proper Charlie: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$6.49"^^schema:price ;
+            schema:paper_price "$15.27"^^schema:price ] ;
+    schema:publisher "Black & White Publishing, Black &amp; White Publishing"^^schema:publisher ;
+    schema:rating "3.5"^^schema:contentRating .
+
+schema:2560.3653 a schema:Book ;
+    schema:abstract "Charlie Miller was the best young Scottish footballer of his generation. He made his Rangers debut under Walter Smith aged just seventeen and became a vital part of the Ibrox club's legendary nine-in-a-row squad. Miller won four league titles and one League Cup with Rangers, but it was a career full of controversy and regrets as well as victories and silverware. Now, in The Proper Charlie , Charlie Miller reveals the real inside story of his incredible life and career, from his upbringing in Castlemilk, one of Glasgow's toughest housing estates, to his unusual family set-up and his feelings on never knowing who his father was. He explains how the gang culture he was involved in almost ended his Rangers career before it had started and speaks openly about the impact drugs, alcohol and gambling have had on his life. Charlie also takes us inside the Ibrox dressing-room, where he mixed with iconic figures like Ally McCoist, Brian Laudrup and Paul Gascoigne, and explains how he went from Rangers hero to rock bottom � with spells at Dundee United and overseas along the way � in an incredible and turbulent few years. Charlie Miller has seen it all and done most of it � and this is his must-read story." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Alice McDermott"^^schema:author,
+                "Charlie Miller"^^schema:author,
+                "Scott McDermott"^^schema:author ] ;
+    schema:datePublished "November 17th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781845028909"^^schema:ISBN ;
+    schema:name "The Proper Charlie: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$6.49"^^schema:price ;
+            schema:paper_price "$15.27"^^schema:price ] ;
+    schema:publisher "Black & White Publishing, Black &amp; White Publishing"^^schema:publisher ;
+    schema:rating "3.5"^^schema:contentRating .
+
+schema:2581.2556 a schema:Book ;
+    schema:abstract [ ] ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Rikki Fulton"^^schema:author ] ;
+    schema:datePublished "October 23rd 2013"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781845027636"^^schema:ISBN ;
+    schema:name "Is it That Time Already?: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$2.90"^^schema:price ;
+            schema:paper_price "$2.90"^^schema:price ] ;
+    schema:publisher "Black & White Publishing, Black &amp; White Publishing"^^schema:publisher ;
+    schema:rating "5.0"^^schema:contentRating .
+
+schema:263.357 a schema:Book ;
+    schema:abstract "Foreword by Karl Malone A fast, gritty, durable player who could read a basketball floor as well as anyone who ever played the game, John Stockton left the NBA after nineteen seasons with the Utah Jazz, holding a massive assist record, including the career mark (15,806). He also twice led the league in steals—with a career total of 3,265—and retired as the NBA’s all-time leader. And during Stockton’s career, the Jazz never missed the playoffs. Coach Frank Layden said, “Nobody thought that he was going to be this good. Nobody. But the thing was, nobody measured his heart.” John’s autobiography, Assisted, pulls back the curtain on his very personal life to show fans a thoughtful recounting of the people, places, and events that have connected with John along his path of extraordinary success. This book clearly illustrates the importance of his family, his faith, and his unparalleled competitive spirit." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "John Stockton"^^schema:author,
+                "Kerry L Pickett"^^schema:author ] ;
+    schema:datePublished "October 15th 2013"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781629730141"^^schema:ISBN ;
+    schema:name "Assisted: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$18.52"^^schema:price ;
+            schema:nook_price "$14.49"^^schema:price ;
+            schema:paper_price "$15.45"^^schema:price ] ;
+    schema:publisher "Shadow Mountian, Deseret Book Company"^^schema:publisher ;
+    schema:rating "3.97"^^schema:contentRating .
+
+schema:2659.451 a schema:Book ;
+    schema:abstract "Based in part on his own writings, this is the true story about one of America’s most beloved leaders. From president of the board of New York City Police Commissioners, secretary of the Navy, founder of the Rough Riders during the war with Cuba, his time as the governor of New York, to vice president and eventually, after the assignation of President McKinley, becoming the twenty-sixth president of the United States, Theodore Roosevelt’s role in the shaping of the United States is still felt today. Illustrated with drawing and photos, discover the rich history of this great man’s life here." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Stephen Brennan"^^schema:author ] ;
+    schema:datePublished "November 15th 2011"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781616083526"^^schema:ISBN ;
+    schema:name "An Autobiography of Theodore Roosevelt" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$12.95"^^schema:price ;
+            schema:nook_price "$10.49"^^schema:price ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Skyhorse Publishing, Skyhorse Publishing"^^schema:publisher ;
+    schema:rating "2.0"^^schema:contentRating .
+
+schema:2866.908 a schema:Book ;
+    schema:abstract [ ] ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Barbara Hulanicki"^^schema:author ] ;
+    schema:datePublished "June 4th 2007"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781851776696"^^schema:ISBN ;
+    schema:name "FROM A TO BIBA: The Autobiography of Barbara Hulanicki" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$7.99"^^schema:price ;
+            schema:paper_price "$15.95"^^schema:price ] ;
+    schema:publisher "V&A Publishing, V&amp;A Publishing"^^schema:publisher ;
+    schema:rating "4.0"^^schema:contentRating .
+
+schema:2940.276 a schema:Book ;
+    schema:abstract "Newly edited by D.J. Natelson, Israel Rank is the black comedy that inspired the 1946 film \"Kind Hearts and Coronets\" and the award-winning Broadway show, \"A Gentleman's Guide to Love and Murder.\" Israel Rank has loving parents, a comfortable home, and the charm, brains, attractiveness, and ambition to get him through life with ease. But he's not satisfied. He's an heir the Gascoyne earldom, a position of power and wealth, and he's determined to get it. All he has to do is kill of everyone in line in front of him, preferably without getting caught." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "D.J. Natelson"^^schema:author,
+                "Roy Horniman"^^schema:author ] ;
+    schema:datePublished "August 26th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781500857806"^^schema:ISBN ;
+    schema:name "Israel Rank: The Autobiography of a Criminal" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price "$13.11"^^schema:price ] ;
+    schema:publisher "D.J. Natelson, CreateSpace Publishing"^^schema:publisher ;
+    schema:rating "3.85"^^schema:contentRating .
+
+schema:2940.691 a schema:Book ;
+    schema:abstract "Newly edited by D.J. Natelson, Israel Rank is the black comedy that inspired the 1946 film \"Kind Hearts and Coronets\" and the award-winning Broadway show, \"A Gentleman's Guide to Love and Murder.\" Israel Rank has loving parents, a comfortable home, and the charm, brains, attractiveness, and ambition to get him through life with ease. But he's not satisfied. He's an heir the Gascoyne earldom, a position of power and wealth, and he's determined to get it. All he has to do is kill of everyone in line in front of him, preferably without getting caught." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "D.J. Natelson"^^schema:author,
+                "Roy Horniman"^^schema:author ] ;
+    schema:datePublished "August 26th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780571315451"^^schema:ISBN ;
+    schema:name "Israel Rank: The Autobiography of a Criminal" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$10.99"^^schema:price ;
+            schema:paper_price "$24.00"^^schema:price ] ;
+    schema:publisher "D.J. Natelson, Faber and Faber"^^schema:publisher ;
+    schema:rating "3.85"^^schema:contentRating .
+
+schema:3133.734 a schema:Book ;
+    schema:abstract "“Little House on the Prairie” meets “The Waltons” in RoseMary Quinn Gabriel’s account of her childhood in rural Markville, Minnesota in the 1930’s and early 1940’s. In this heartwarming true story, RoseMary shares the adventures of small town life in a setting where kids had freedom to climb trees, swim in rivers and roam the countryside. Get to know the Quinn family and share in their escapades as the kids get in and out of trouble. Sure to become an American family classic, “Kids on the Loose” will capture your heart and imagination." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "RoseMary Quinn Gabriel"^^schema:author ] ;
+    schema:datePublished "June 6th 2015"^^schema:datePublished ;
+    schema:isbn "1512348856"^^schema:ISBN ;
+    schema:isbn13 "9781512348859"^^schema:ISBN ;
+    schema:name "Kids on the Loose: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "CreateSpace Independent Publishing Platform, CreateSpace Publishing"^^schema:publisher ;
+    schema:rating "4.25"^^schema:contentRating .
+
+schema:3134.123 a schema:Book ;
+    schema:abstract "**Shortlisted for the William Hill Sports Book of the Year Award 2014** Gareth Thomas had it all. He was a national hero, a sporting icon. He was a leader of men, captain of Wales and the British Lions. To him, rugby was an expression of cultural identity, a sacred code. It was no mere ball game. It gave him everything, except the freedom to be himself. This is the story of a man with a secret that was slowly killing him. Something that might devastate not only his own life but the lives of his wife, family, friends and teammates. The only place where he could find any refuge from the pain and guilt of the lie he was living was on the pitch, playing the sport he loved. But all his success didn’t make the strain of hiding who he really was go away. His fear that telling the truth about his sexuality would lose him everything he loved almost sent him over the edge. The deceit ended when Gareth became the world’s most prominent athlete to come out as a gay man. His gesture has strengthened strangers, and given him a fresh perspective. Gareth’s inspiring and moving story transcends the world of sport to tell a universal truth about feeling like an outsider, and facing up to who you really are." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Gareth Thomas"^^schema:author ] ;
+    schema:datePublished "September 11th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781473502208"^^schema:ISBN ;
+    schema:name "Proud: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$36.95"^^schema:price ;
+            schema:nook_price "$8.99"^^schema:price ;
+            schema:paper_price "$16.95"^^schema:price ] ;
+    schema:publisher "Ebury Digital, Ebury Publishing"^^schema:publisher ;
+    schema:rating "3.97"^^schema:contentRating .
+
+schema:3203.734 a schema:Book ;
+    schema:abstract "“Little House on the Prairie” meets “The Waltons” in RoseMary Quinn Gabriel’s account of her childhood in rural Markville, Minnesota in the 1930’s and early 1940’s. In this heartwarming true story, RoseMary shares the adventures of small town life in a setting where kids had freedom to climb trees, swim in rivers and roam the countryside. Get to know the Quinn family and share in their escapades as the kids get in and out of trouble. Sure to become an American family classic, “Kids on the Loose” will capture your heart and imagination." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "RoseMary Quinn Gabriel"^^schema:author ] ;
+    schema:datePublished "June 6th 2015"^^schema:datePublished ;
+    schema:isbn "1512348856"^^schema:ISBN ;
+    schema:isbn13 "9781512348859"^^schema:ISBN ;
+    schema:name "Kids on the Loose: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "CreateSpace Independent Publishing Platform, CreateSpace Publishing"^^schema:publisher ;
+    schema:rating "4.25"^^schema:contentRating .
+
+schema:326.472 a schema:Book ;
+    schema:abstract "What do we think we know about the female orgasm? It’s that peak experience, an ultimate moment of climax and release that nevertheless eludes so many. Some women live for it, some have multiple orgasms, some fake it while others simply learn to do without. “Autobiography of an Orgasm” (November, 2014) is a sexy-spiritual memoir that’s part steamy erotica and part straight-talking advice. It’s the result of Betsy Blankenbaker’s tireless journey to learn everything she could about the female orgasm in a personal quest to feel as much as possible after too many years of feeling nothing at all. To solve the mystery of why she spent much of her life disconnected from her sensuality, struggling to overcome the shame of childhood sexual assault, Blankenbaker set out at age 45 to thoroughly research women’s orgasm. Along the way, she spent time in bed with orgasm experts, strolled down New York’s tony Fifth Avenue with a healing jade egg in her vagina, had a spiritual awakening throug orgasm in Africa, and received sacred “Womb Rites” from a shaman in the Peruvian Amazon. Through lively storytelling and a delicious sense of humor, Betsy shares why she was never able to find fulfillment in life, love or sex prior to her pilgrimage to healing and pleasure. Her findings resulted in this unprecedented book, “Autobiography of an Orgasm.” “Autobiography of an Orgasm” seeks to answer the questions women have but don’t know how (or whom) to ask. It is the author’s fervent prayer that it will inspire women everywhere to burn their dysfunctional bridges and step into healing by learning to love their bodies and themselves." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Betsy Blankenbaker"^^schema:author ] ;
+    schema:datePublished "November 6th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781483543369"^^schema:ISBN ;
+    schema:name "Autobiography of an Orgasm" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$10.99"^^schema:price ;
+            schema:paper_price "$16.54"^^schema:price ] ;
+    schema:publisher "BookBaby, BookBaby"^^schema:publisher ;
+    schema:rating "4.43"^^schema:contentRating .
+
+schema:3261.1842 a schema:Book ;
+    schema:abstract "For four decades Archie Macpherson has been one of Britain’s finest football commentators. Instantly recognisable, he’s never been short of an opinion or far from controversy. After joining the BBC full-time in 1969, he established himself not only as one of our foremost commentators but also as a cult figure in our national life. In A Game of Two Halves, Archie Macpherson gives us his unique perspective on his life and career. As well as brilliant anecdotes including his battles with Jock Stein, friendship and a spectacular falling out with Alex Ferguson, interviewing Terry Wogan in LA in a Jacuzzi in an open- top limousine and the Scotland football manager who took delivery of a plain white envelope, Archie Macpherson also tackles tough issues like sectarianism, the sad decline of commercial television and the future of the beautiful game. A Game of Two Halves is a candid, entertaining and thought provoking autobiography which brings Archie Macpherson’s story and his passion for football to life with all his characteristic insight, humour and honesty." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Archie Macpherson"^^schema:author ] ;
+    schema:datePublished "October 8th 2009"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781845029265"^^schema:ISBN ;
+    schema:name "A Game of Two Halves: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$2.17"^^schema:price ;
+            schema:nook_price "$2.17"^^schema:price ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Black & White Publishing, Black &amp; White Publishing"^^schema:publisher ;
+    schema:rating "3.0"^^schema:contentRating .
+
+schema:3261.2874 a schema:Book ;
+    schema:abstract "For four decades Archie Macpherson has been one of Britain’s finest football commentators. Instantly recognisable, he’s never been short of an opinion or far from controversy. After joining the BBC full-time in 1969, he established himself not only as one of our foremost commentators but also as a cult figure in our national life. In A Game of Two Halves, Archie Macpherson gives us his unique perspective on his life and career. As well as brilliant anecdotes including his battles with Jock Stein, friendship and a spectacular falling out with Alex Ferguson, interviewing Terry Wogan in LA in a Jacuzzi in an open- top limousine and the Scotland football manager who took delivery of a plain white envelope, Archie Macpherson also tackles tough issues like sectarianism, the sad decline of commercial television and the future of the beautiful game. A Game of Two Halves is a candid, entertaining and thought provoking autobiography which brings Archie Macpherson’s story and his passion for football to life with all his characteristic insight, humour and honesty." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Archie MacPherson"^^schema:author,
+                "Archie Macpherson"^^schema:author ] ;
+    schema:datePublished "October 8th 2009"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781845029265"^^schema:ISBN ;
+    schema:name "A Game of Two Halves: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$2.17"^^schema:price ;
+            schema:nook_price "$2.17"^^schema:price ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Black & White Publishing, Black &amp; White Publishing"^^schema:publisher ;
+    schema:rating "3.0"^^schema:contentRating .
+
+schema:3262.1613 a schema:Book ;
+    schema:abstract "Some Family Trees are Rooted in Evil “Jona is short for Jonathan, a name that I have never been called other than a few times on the first day of school.” Orphanage to Catholic boarding schools then a seminary, where the only father figure in his life teaches, seemed to be his path. Something happens on Jonas’ twenty-fourth birthday: Father Clements gives him a box containing information about his family. The diaries and photos inspire a quest to find out what happened to them. Secrets of prostitution, witchcraft, powerful books and a discovery so unexpected: “You can ask your aunt if you wish to. She lives, if I dare still call it that, in a private hospital run by the church.” “Yes Father. I’ll go there today if you’ll permit it.” I asked, again upright and alert. “No, Jona, not today.” He cautioned me. “First, you must read the diaries and discuss them with me for three months. Then, if you wish to continue, I will call for priests that specialize in these things to counsel you for another three months.” “Priests that specialize in these things?” I was confused. “What kind of priests are you referring to, Father?” “Exorcists.” He said the word then made the sign of the cross. Jona is reunited with his aunt and the demons within her. His teaching Exorcists, a Cardinal and an Army Chaplain, tell him not to believe what is said by the damned. Claims that he is the last of a Roman Emperors bloodline, has abilities not meant for man and is one of the few that Angels watch are becoming harder to dispute. His chosen ministry at the Orphanage where he grew up seems worlds away. Omens are seen, dreams contain messages and demons impatient for Jona to act on their behalf: attack. Discover what the demons want from him and if Jona will finally be ordained." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "WllM Worth"^^schema:author,
+                "Wllm Worth"^^schema:author ] ;
+    schema:datePublished "October 10th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781483540368"^^schema:ISBN ;
+    schema:name "Jona: Autobiography of an Exorcist" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "BookBaby, BookBaby"^^schema:publisher ;
+    schema:rating "3.0"^^schema:contentRating .
+
+schema:3334.253 a schema:Book ;
+    schema:abstract "This is the long-awaited autobiography of the greatest rugby player of our time: Brian O'Driscoll. Since 1999, when he made his international debut, there has been no greater player in world rugby than Brian O'Driscoll. In 2010 Rugby World magazine named him its world player of the decade - and since then the legend has only grown. Now, at the end of his amazing career - which culminated in fairy-tale fashion with Ireland's victory in the 2014 Six Nations championship - he tells his own story. Honest, gritty and thoughtful, Brian O'Driscoll's Autobiography is not just an essential sports book. It is an essential book about family, friends, hard work, courage and imagination. \"An amazing career. There will only ever be one BOD\". (Dan Carter). \"A thoroughly enjoyable read ...After reading The Test I warmed even more to O'Driscoll as a player and a man. He stood for a new ethos in Irish sport that refused to accept mediocrity or glorious failure\". (Fergal Keane, Irish Times). \"O'Driscoll's honesty ...takes the reader to a place they simply have not been before\". (Vincent Hogan, Irish Independent)." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Brian O'Driscoll"^^schema:author ] ;
+    schema:datePublished "October 23rd 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780241962695"^^schema:ISBN ;
+    schema:name "The Test: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Penguin Ireland, Penguin UK"^^schema:publisher ;
+    schema:rating "3.36"^^schema:contentRating .
+
+schema:3375.251 a schema:Book ;
+    schema:abstract "From pop stardom through the depths of addiction to her punk-rock comeback, Marianne Faithfull's life captures rock 'n' roll at its most decadent and its most destructive. Faithfull's first hit, 1964's \"As Tears Go By,\" opened doors to the hippest circles in London. There she frolicked with the most luminous of the young, rich, and reckless, including Bob Dylan, the Beatles, and the Rolling Stones. Her legendary affair with Mick Jagger produced one hit single, \"Sister Morphine,\" and countless headlines. Faithfull left the relationship a strung-out junkie. Struggling to kick drugs and revive her musical career, she recorded Broken English in 1979, an edgy, hard-hitting, critical triumph. As honest in her autobiography as in her music, Faithfull is a searing, intimate portrait of a woman who examines her adventures and misadventures without flinching, without apology." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "David Dalton"^^schema:author,
+                "Marianne Faithfull"^^schema:author ] ;
+    schema:datePublished "June 6th 2000"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781461660972"^^schema:ISBN ;
+    schema:name "Faithfull: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$10.49"^^schema:price ;
+            schema:paper_price "$14.86"^^schema:price ] ;
+    schema:publisher "Cooper Square Press, Rowman &amp; Littlefield Publishers, Inc."^^schema:publisher ;
+    schema:rating "3.96"^^schema:contentRating .
+
+schema:3447.233 a schema:Book ;
+    schema:abstract "Known for his intelligent and often surreal humour, Paul Merton’s weekly appearances on BBC1’s Have I Got News For You – as well as Radio 4’s Just A Minute and his travel documentaries – have seen him become an artfully rebellious fixture in our lives for over 25 years. He also has a real story to tell. In ONLY WHEN I LAUGH, his rich and beautifully-observed autobiography, Paul takes us on an evocative journey from his working-class Fulham childhood to the present day. Whether writing about school days, his run-ins with the nuns and other pupils; his disastrous first confession; his meatpacking job; taking acid; leaving home to live in bedsit; his early brushes with the opposite sex – and not forgetting his repeated attempts to break into the world of comedy – Paul’s writing is always funny, poignant and revealing. And when his star finally ascends in the atmospherically drawn 1980s alternative cabaret scene there is a sense of excitement, energy, camaraderie, momentum and dramatic impending success… …And then CRASH! In an unflinching and brilliantly written section that defines the book, we experience the disorienting and terrifying sustained manic episode that he suffered which landed him in a psychiatric hospital. These, and other tougher moments, are written about candidly and with sensitivity and honesty. Yet throughout ONLY WHEN I LAUGH, Paul Merton succeeds in telling his life story entertainingly, with warmth, humour and a big bucket load of wit. Ultimately uplifting, it is the story of a fascinating life, brilliantly told – and one of the best memoirs of the year." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Paul Merton"^^schema:author ] ;
+    schema:datePublished "September 25th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781448146307"^^schema:ISBN ;
+    schema:name "Only When I Laugh: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$34.46"^^schema:price ;
+            schema:nook_price "$10.49"^^schema:price ;
+            schema:paper_price "$14.95"^^schema:price ] ;
+    schema:publisher "Ebury Digital, Ebury Publishing"^^schema:publisher ;
+    schema:rating "3.75"^^schema:contentRating .
+
+schema:347.349 a schema:Book ;
+    schema:abstract "Pyrrhus Press specializes in bringing books long out of date back to life, allowing today’s readers access to yesterday’s treasures. Of all of the important Catholic men and women who have been venerated over the last 2,000 years, one of the faith’s most popular and influential men also lived one of the most unique lives. Like Roman Emperor Constantine the Great, St. Ignatius of Loyola (1491-1556) found God about as far away from church as possible; it was during military service that he underwent a remarkable conversion. A Spanish knight who hailed from a noble Basque family, Ignatius seemed destined for military glory until he was badly wounded in 1521 during the Battle of Pamplona. While convalescing, Ignatius began reading De Vita Christi by Ludolph of Saxony, after which he began a tireless career in service of the Catholic Church. After spending several years studying the faith, Ignatius formed the Society of Jesus in 1539, and as its Superior General, he sent followers as missionaries across Europe to create schools, colleges, and seminaries. The Jesuits remain active across the world nearly 500 years later. By 1548, he had published his famous Spiritual Exercises, which help the faithful commit themselves to Christ by conducting different mental exercises. The Spiritual Exercises continue to be wildly popular across the world today, even among non-Catholics. By the time Ignatius died in 1556, he was one of the most important Catholics of the Counter-Reformation, and it took less than 100 years for him to be beatified and canonized as a saint." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "John Francis O'Conor"^^schema:author ] ;
+    schema:datePublished "August 28th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781634618793"^^schema:ISBN ;
+    schema:name "The Autobiography of St. Ignatius" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$0.99"^^schema:price ;
+            schema:paper_price "$5.99"^^schema:price ] ;
+    schema:publisher "Pyrrhus Press, Pyrrhus Press"^^schema:publisher ;
+    schema:rating "3.62"^^schema:contentRating .
+
+schema:3495.501 a schema:Book ;
+    schema:abstract "A glimpse into the mind and life of one of the most creative and enigmatic visionaries of our time, filmmaker Alejandro Jodorowsky • Retraces the spiritual and mystical path Jodorowsky has followed since childhood, vividly repainting events from the perspective of an unleashed imagination • Explores the development of the author’s psychomagic and metagenealogy practices via his realization that all problems are rooted in the family tree • Includes photos from Jodorowsky’s appearance at the 2013 Cannes Film Festival and from the film based on this book, which debuted at Cannes Retracing the spiritual and mystical path he has followed since childhood, Alejandro Jodorowsky re-creates the incredible adventure of his life as an artist, filmmaker, writer, and therapist--all stages on his quest to push back the boundaries of both imagination and reason. Not a traditional autobiography composed of a chronological recounting of memories, The Dance of Reality repaints events from Jodorowsky’s life from the perspective of an unleashed imagination. Like the psychomagic and metagenealogy therapies he created, this autobiography exposes the mythic models and family templates upon which the events of everyday life are founded. It reveals the development of Jodorowsky’s realization that all problems are rooted in the family tree and explains, through vivid examples from his own life, particularly interactions with his father and mother, how the individual’s road to true fulfillment means casting off the phantoms projected by parents on their children. The Dance of Reality is autobiography as an act of healing. Through the retelling of his own life, the author shows we do not start off with our own personalities, they are given to us by one or more members of our family tree. To be born into a family, Jodorowsky says, is to be possessed. To peer back into our past is equivalent to digging into our own souls. If we can dig deep enough, beyond familial projections, we shall find an inner light--a light that can help us through life’s most difficult tests. Offering a glimpse into the mind and life of one of the most creative and enigmatic visionaries of our time, The Dance of Reality is the book upon which Jodorowsky’s critically acclaimed 2013 Cannes Film Festival film of the same name was based." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Alejandro Jodorowsky"^^schema:author ] ;
+    schema:datePublished "June 6th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781620552810"^^schema:ISBN ;
+    schema:name "The Dance of Reality: A Psychomagical Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$13.99"^^schema:price ;
+            schema:paper_price "$17.10"^^schema:price ] ;
+    schema:publisher "Park Street Press, Inner Traditions/Bear &amp; Company"^^schema:publisher ;
+    schema:rating "3.97"^^schema:contentRating .
+
+schema:3690.580 a schema:Book ;
+    schema:abstract "Steve Jobs in His Own Words. Get a unique insight into the mind of one of the most influential thinkers, creators and entrepreneurs of all time. The man responsible for ringing in the digital age, known for his perfectionist attitude and futuristic vision. Hear his story from the advent of the personal computer to revolutionizing the handheld industry with the iPod, iPhone, iPad and more..." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "J.T. Owens"^^schema:author ] ;
+    schema:datePublished "September 28th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940046205206"^^schema:ISBN ;
+    schema:name "Steve Jobs Bio: The Unauthorized Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Smashwords Edition, J.T. Owens"^^schema:publisher ;
+    schema:rating "4.64"^^schema:contentRating .
+
+schema:38.315 a schema:Book ;
+    schema:abstract "I am a Cat who has had a lot of experiences in my 4 years. In my Autobiography with 21 pictures and 5000 words you can meet my friends like Michael, the local mob and the kind farmer, hate my enemies like the Big Fat Ugly Dog, the Bad Man and the Satanic Cat. and laugh at the terrible ideas of the enigmatic Bad Boy. You can share my grief and my joy. Michael says that I have delusions of Grandeur. He is wrong, I don't have delusions; I am Grand. Suitable for people aged from 8 to 118." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Luna Challis"^^schema:author,
+                "Steve Challis"^^schema:author ] ;
+    schema:datePublished "August 28th 2011"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940011506413"^^schema:ISBN ;
+    schema:name "Luna the Autobiography of a Super Cat" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Smashwords Edition, Steve Challis"^^schema:publisher ;
+    schema:rating "3.94"^^schema:contentRating .
+
+schema:3842.994 a schema:Book ;
+    schema:abstract "Born in Bow in 1980, Ledley King joined Tottenham Hotspur as a trainee at the age of sixteen, and was a White Hart Lane talisman from his 1999 debut through to his retirement in 2012. Telling it how it was behind the scenes at Spurs during his years progressing from schoolboy trainee to club captain, King dramatically chronicles the turbulent times and personalities of the modern White Hart Lane. Yet above all, King is the story of one of the most widely admired and respected English footballers of modern times – one of passion and roots, friendship, courage, grit; and of a role model of great strength yet rare humility." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Ledley King"^^schema:author,
+                "Mat Snow"^^schema:author ] ;
+    schema:datePublished "September 12th 2013"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781782069065"^^schema:ISBN ;
+    schema:name "King: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$4.99"^^schema:price ;
+            schema:paper_price "$4.99"^^schema:price ] ;
+    schema:publisher "Quercus, Quercus Publishing"^^schema:publisher ;
+    schema:rating "3.53"^^schema:contentRating .
+
+schema:3843.96 a schema:Book ;
+    schema:abstract "This is the autobiography of a former photographer's stylist who became an international film celebrity and married two of Hollywood's biggest names, but then seemed to throw it all away. The role of Jenny in \"Love Story\" brought Ali MacGraw stardom. She married producer Bob Evans and bore him a son, but after two years she left Evans for Steve McQueen. McQueen was a troubled man who longed to live simply, almost reclusively, with his wife barefoot and pregnant. At his insistence MacGraw gave up acting at the peak of her fame, making a decision from which her career never recovered. When the tumultuous marriage ended after six years she was not much in demand, and what acting she did, for example in television's \"Dynasty\", was ridiculed - justly, she felt. A lifelong pattern of destructive love affairs continued and her depression was abetted by unacknowledged alcoholism. When a friend persuaded her in 1986 to go to the Betty Ford Clinic, MacGraw felt she needed only a \"tune-up\". What she found instead was life-saving help. Now Ali MacGraw takes stock of her life, revising the mythical childhood she once invented for a \"Time\" cover story and describing the heady early years in New York, her attempted transformation by the Hollywood machine and the realities she faces today as a woman who hopes her greatest adventures are yet to come. ** Publisher's Weekly In this candid, courageous autobiography, MacGraw discusses her artistic, emotionally cold parents, her schooling at Wellesley College and her stint as Diana Vreeland's ``girl'' at Harper's Bazaar . The focus, however, is on her struggle with addiction--alcoholism and ``male dependency''--that grew as her acting career and personal life sputtered. A sudden star in her first major role, in Goodbye, Columbus in 1969, and the following year with the even more popular Love Story. Library Journal - Thomas Wiener McGraw now tells the whole sad story of her life. In what could be appropriately filed under ``self-help,'' she writes extensively about coming to grips with her addictions to alcohol and men. This is certainly not a series of pretty pictures. Entertainment Weekly - Margot Miflin This competently written memoir hinges on McGraw’s discovery that women can be addicted to men. Chicago Tribune - Jon Anderson \"Love Story\"; the subject of a Time cover story, \"The Return to Romance\"; and the wife, in turn, of two powerful Hollywood figures: Robert Evans, head of production at Paramount, and actor Steve McQueen....McGraw reveals that a lot more action, not all of it happy, was going on off- stage. Los Angeles Times - Constance Casey \"Moving Pictures\" demonstrates that underneath all that shallow stuff, lies \"an ordinary human heart.\"" ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Ali MacGraw"^^schema:author ] ;
+    schema:datePublished "March 14th 2015"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940151374255"^^schema:ISBN ;
+    schema:name "Moving Pictures: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$4.99"^^schema:price ;
+            schema:paper_price "$4.99"^^schema:price ] ;
+    schema:publisher "Renaissance Literary & Talent in collaboration with the Proprietor, Renaissance Literary &amp; Talent"^^schema:publisher ;
+    schema:rating "3.36"^^schema:contentRating .
+
+schema:3856.1138 a schema:Book ;
+    schema:abstract "In 1882 a notorious outlaw by the name of Jesse Evans, a childhood friend of Billy the Kid and a participant in the Lincoln County War, walked out of jail after serving a 10 year sentence for killing a Texas ranger. Jesse walked out of prison a free man and disappeared, never to be heard from again. Never, that is, until 1949 when Jesse came out of hiding after almost 60 years to claim an inheritance left to him by his brother. In the course of proving his identity to a court Jesse told some amazing stories of his time when he was an outlaw but his biggest revelation of all was that his good friend Billy the Kid was still alive. Jesse led a young lawyer named William Morrison to an old man named not William H. Bonney but William H. Roberts who after some consideration finally agreed to come forward and reveal himself as Billy the Kid. He agreed to this on one condition. This condition was not that he could receive fame, fortune, or royalties on a book, but this condition was that he would reveal himself only if he could obtain a pardon from the Governor before his death so he could die a free man. You see, Billy the Kid was still wanted for murder and was condemned to hang. To come forward and reveal himself was to risk being arrested and put to death. This was a risk that William H. Roberts was willing to take. He sat down with Mr. Morrison and told his story. This book contains that story. It is the one true autobiography of Billy the Kid. A story that aside from some definite highlights and adventures that one would expect from the Kid, was remarkable normal and focused on his skill breaking horses as much or as more as his skill as a gunslinger. Billy the Kid was, in fact, just a gifted young cowhand who found himself juxtaposed against corrupt officials and lawmen at what became a key moment in American History. Before one dismisses Mr. Roberts it should be considered that 5 living acquaintances of Billy the Kid, aside from Mr. Evans who revealed him, were willing to sign legal affidavits that Mr. Roberts was the man they knew as Billy the Kid. Further, new photographic evidences shows beyond a shadow of a doubt that they were the same man. Mr. Roberts' story became the inspiration for the opening scene in hit movie \"Young Guns II\" starring Emilio Estevez as Billy the Kid. Also Consider that Pat Garrett was denied his reward for killing the kid for many months, and that only a special act of the legislature allowed him to finally receive it. Consider further that a contemporary newspaper reported, after seeing the body of the kid, that the Kid had tanned his skin and grown a beard to disguise himself as a Mexican which fits perfectly the local history that Pat Garrett killed the wrong man. All of this and more is contained in this book. Thanks to Mr. Morrison each of us can now pull up a chair, sit down across from Billy the Kid, and listen as he shares his story." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Daniel A Edwards"^^schema:author,
+                "Daniel A. Edwards"^^schema:author ] ;
+    schema:datePublished "October 31st 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780692437254"^^schema:ISBN ;
+    schema:name "Billy the Kid: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price "$14.99"^^schema:price ] ;
+    schema:publisher "Creative Texts Publishers, Creative Texts Publishers, LLC"^^schema:publisher ;
+    schema:rating "4.05"^^schema:contentRating .
+
+schema:499.216 a schema:Book ;
+    schema:abstract "Although Frank Capra (1897–1991) is best known as the director of It Happened One Night, Mr. Deeds Goes to Town, You Can't Take It with You, Mr. Smith Goes to Washington, Arsenic and Old Lace, and It's a Wonderful Life , he was also an award-winning documentary filmmaker as well as a behind-the-scene force in the Director's Guild, the Motion Picture Academy, and the Producer's Guild. He worked with or knew socially everyone in the movie business from Mack Sennett, Chaplin, and Keaton in the silent era through the illustrious names of the golden age. He directed Clark Gable, Jimmy Stewart, Cary Grant, Gary Cooper, Bing Crosby, Frank Sinatra, Jean Harlow, Claudette Colbert, Bette Davis, and others. Reading his autobiography is like having Capra sitting in your living room, regaling you with his anecdotes. In The Name Above the Title he reveals the deeply personal story of how, despite winning six Academy Awards, he struggled throughout his life against the glamors, vagaries, and frustrations of Hollywood for the creative freedom to make some of the most memorable films of all time." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Frank Capra"^^schema:author ] ;
+    schema:datePublished "1971"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780306807718"^^schema:ISBN ;
+    schema:name "The Name Above the Title: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price "$16.87"^^schema:price ] ;
+    schema:publisher "Macmillan Co., Da Capo Press"^^schema:publisher ;
+    schema:rating "4.16"^^schema:contentRating .
+
+schema:526.541 a schema:Book ;
+    schema:abstract "Steve Davis was just a rookie from Plumstead, south London, learning how to play from an old book his snooker-obsessed father had given him, when an encounter with Barry Hearn changed his life forever. With his backing, Steve began touring the country in a clapped-out car as an amateur. Challenging established professionals and winning titles, supported by his loyal following the Romford Roar, it wasn’t long before he progressed to the world’s stage. By the eighties, Steve had helped transform a previously shady sport into a national obsession. He and a cast of legends such as Ray Reardon, Dennis Taylor and Alex Higgins, with other young guns like Jimmy White, were doing silent battle in front of huge audiences. Tens of millions of viewers would witness the nail-biting conclusions of his world championship finals; this was snooker’s golden era. The man behind the ‘boring’ tag has always been the sport’s smartest and sharpest man. With his cool, obsessive approach, Steve rewrote the rule book and became untouchably the best player in the world and the best paid sportsman in the country. Interesting lays it all bare: what it was like to win in those pressure-cooker situations; how to cope at the top, when everyone wants you to lose; and how you deal with the moment when a man comes along who is finally better than you. This is a memoir that closely evokes the smoke-filled atmosphere of those arenas, the intrigue behind the scenes and the personal psychology and sacrifice that is required to stay at the top of such an exacting sport." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Steve Davis"^^schema:author ] ;
+    schema:datePublished "April 9th 2015"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781473502482"^^schema:ISBN ;
+    schema:name "Interesting: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Ebury Digital, Ebury Publishing"^^schema:publisher ;
+    schema:rating "4.17"^^schema:contentRating .
+
+schema:536.541 a schema:Book ;
+    schema:abstract "Steve Davis was just a rookie from Plumstead, south London, learning how to play from an old book his snooker-obsessed father had given him, when an encounter with Barry Hearn changed his life forever. With his backing, Steve began touring the country in a clapped-out car as an amateur. Challenging established professionals and winning titles, supported by his loyal following the Romford Roar, it wasn’t long before he progressed to the world’s stage. By the eighties, Steve had helped transform a previously shady sport into a national obsession. He and a cast of legends such as Ray Reardon, Dennis Taylor and Alex Higgins, with other young guns like Jimmy White, were doing silent battle in front of huge audiences. Tens of millions of viewers would witness the nail-biting conclusions of his world championship finals; this was snooker’s golden era. The man behind the ‘boring’ tag has always been the sport’s smartest and sharpest man. With his cool, obsessive approach, Steve rewrote the rule book and became untouchably the best player in the world and the best paid sportsman in the country. Interesting lays it all bare: what it was like to win in those pressure-cooker situations; how to cope at the top, when everyone wants you to lose; and how you deal with the moment when a man comes along who is finally better than you. This is a memoir that closely evokes the smoke-filled atmosphere of those arenas, the intrigue behind the scenes and the personal psychology and sacrifice that is required to stay at the top of such an exacting sport." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Steve Davis"^^schema:author ] ;
+    schema:datePublished "April 9th 2015"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781473502482"^^schema:ISBN ;
+    schema:name "Interesting: My Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Ebury Digital, Ebury Publishing"^^schema:publisher ;
+    schema:rating "4.17"^^schema:contentRating .
+
+schema:63.949 a schema:Book ;
+    schema:abstract "One of the greatest GAA footballers of the modern era, Paul Galvin has enjoyed a brilliant and at times controversial career. Winning four senior All Ireland medals with Kerry and eight Munster championships, he was also a three-time All Star and 2009 Footballer of the Year. His inter-county career took off in the late 1990s, when he picked up a Munster minor championship medal in 1997 and another at under-21 level in 1999. But it was in the senior team throughout the 2000s that Paul came into his own. In a period defined by great rivalry with Tyrone, he became a key playmaker for Kerry, never failing to give his all in pursuit of victory. Over the course of a career marked by courage, physicality and an intense passion for the Green and Gold, there were many glorious days. There were other days too, with controversial incidents that led to a number of suspensions, most notably in 2008, the year in which Paul also had the honour of being the Kerry captain. 2009 brought redemption. But 2010 presented new challenges. In this fiercely honest autobiography, Paul offers – in his own words – a compelling, unflinching account of a career that has fascinated football fans for over a decade." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Paul Galvin"^^schema:author ] ;
+    schema:datePublished "October 30th 2014"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781473509740"^^schema:ISBN ;
+    schema:name "In My Own Words: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$8.99"^^schema:price ;
+            schema:paper_price "$15.33"^^schema:price ] ;
+    schema:publisher "Transworld Digital, Transworld Publishers Limited"^^schema:publisher ;
+    schema:rating "3.91"^^schema:contentRating .
+
+schema:648.395 a schema:Book ;
+    schema:abstract "One second in time may separate the great athlete from the merely good. Seb Coe has made every second count. From an early age he has been driven to be the best at everything he does. Since the moment Coe stood alongside a 'scrubby' municipal running track in Sheffield, he knew that sport could change his life. It did. Breaking an incredible twelve world records and three of them in just forty-one days, Seb became the only athlete to take gold at 1500 metres in two successive Olympic Games (Moscow 1980 and Los Angeles 1984). The same passion galvanised Coe in 2005, when he led Britain's bid to bring the Olympic and Paralympic Games to London. He knew that if we won it would regenerate an East London landscape and change the lives of thousands of young people. It has. Born in Hammersmith and coached by his engineer father, Coe went from a secondary modern school and Loughborough University to become the fastest middle-distance runner of his generation. His rivalry with Steve Ovett gripped a nation and made Britain feel successful at a time of widespread social discontent. From sport Coe transferred his ideals to politics, serving in John Major's Conservative government from 1992 to 1997 and developing 'sharp elbows' to become chief of staff to William Hague, leader of the Party from 1997 to 2001 and finally a member of the House of Lords. Running My Life is in turns exhilarating, inspiring, amusing, and extremely moving. Everyone knows where Sebastian Coe ended up. Few people realise how he got there. This is his personal journey." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Seb Coe"^^schema:author ] ;
+    schema:datePublished "November 8th 2012"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781444732535"^^schema:ISBN ;
+    schema:name "Running My Life: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$32.95"^^schema:price ;
+            schema:nook_price "$7.99"^^schema:price ;
+            schema:paper_price "$16.95"^^schema:price ] ;
+    schema:publisher "Hodder & Stoughton, Hodder &amp; Stoughton, Ltd."^^schema:publisher ;
+    schema:rating "3.77"^^schema:contentRating .
+
+schema:668.131 a schema:Book ;
+    schema:abstract "Even people who don't know football know Pelé. The best of a generation of Brazilian players universally acknowledged as the most accomplished and attractive group of footballers ever to play the game, he won the World Cup three times and is Brazil's all-time record goalscorer. But how did this man -- a sportsman, a mere footballer, like many others -- become a global icon? Was it just by being the best at what he did, or do people respond to some other quality? The world's greatest footballer now gives us the full story of his incredible life and career. Told with his characteristic grace and modesty, but covering all aspects of his playing days and his subsequent careers as politician, international sporting ambassador and cultural icon, PELE: THE AUTOBIOGRAPHY is an essential volume for all sports fans, and anyone who admires true rarity of spirit." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Pelxe9"^^schema:author,
+                "Pel�"^^schema:author ] ;
+    schema:datePublished "September 4th 2008"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781847394880"^^schema:ISBN ;
+    schema:name "Pele: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Simon & Schuster UK, Simon &amp; Schuster UK"^^schema:publisher ;
+    schema:rating "3.5"^^schema:contentRating .
+
+schema:753.109 a schema:Book ;
+    schema:abstract "With startling honesty and an unmistakable voice, Dr. J is a historic self-portrait of an American legend, Julius \"The Doctor\" Erving. With his flights of improvisation around the basket and his towering afro, Julius Erving became one of the most charismatic (and revolutionary) players basketball has ever known. But while the public has long revered this cultural icon, few have ever known of the double life of Julius Erving. Dr. J traces the inner lives of the nearly perfect player and the imperfect man—and how he has come to terms with both." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Julius Erving"^^schema:author,
+                "Karl Taro Greenfeld"^^schema:author ] ;
+    schema:datePublished "November 5th 2013"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780062188038"^^schema:ISBN ;
+    schema:name "Dr. J: The Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$19.45"^^schema:price ;
+            schema:nook_price "$13.99"^^schema:price ;
+            schema:paper_price "$21.27"^^schema:price ] ;
+    schema:publisher "Harper, HarperCollins Publishers"^^schema:publisher ;
+    schema:rating "3.96"^^schema:contentRating .
+
+schema:774.474 a schema:Book ;
+    schema:abstract "THE REAL STORY BEHIND INXS'S RISE TO FAME -- AND HOW THEY HELPED DEFINE THE MUSIC OF A GENERATION. INXS broke new musical ground. This Australian band, made up of three brothers and their three best mates, took the world by storm, turning rock, pop, and funk into a cutting edge, danceable style, and selling more than thirty million albums worldwide. INXS: Story to Story tells the tale of their incredible journey, from playing the world's biggest concert venues to living a high life rivaling any in rock history, filled with sex, drugs, and supermodels. Now for the first time, they reveal everything they experienced in their more than two decades of making music -- the partying, the pressure, the wild times on the road, the heights and depths of rock-star life, and the bonds of brotherhood and friendship that not only got them through the tough times but made the fun times even more intense. They also talk about the sadness of watching their closest friend and collaborator, Michael Hutchence, slipping away from them, and share their thoughts about why he left them far too soon. Fully authorized and reflecting the band's firsthand point of view, this is the real story behind the phenomenon that is INXS -- and the book every rock fan will need to own." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Anthony Bozza"^^schema:author,
+                "INXS Publications"^^schema:author ] ;
+    schema:datePublished "May 11th 2010"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780743290029"^^schema:ISBN ;
+    schema:name "INXS: Story to Story: The Official Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price "$13.99"^^schema:price ;
+            schema:paper_price "$13.99"^^schema:price ] ;
+    schema:publisher "Atria Books, Atria Books"^^schema:publisher ;
+    schema:rating "4.0"^^schema:contentRating .
+
+schema:821.674 a schema:Book ;
+    schema:abstract [ ] ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Con Slobodchikoff"^^schema:author ] ;
+    schema:datePublished "August 1st 2012"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9780786754083"^^schema:ISBN ;
+    schema:name "Autobiography of a Poodle" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Argo-Navis, Argo-Navis"^^schema:publisher ;
+    schema:rating "4.67"^^schema:contentRating .
+
+schema:908.84 a schema:Book ;
+    schema:abstract "Sylvester Logan James' feud with the Beast has wracked his body and bedeviled his soul, but after twenty-five years it has failed to satisfy his need for vengeance. When a werewolf delivers a pair of severed heads, Sylvester Logan James finds himself embroiled in an ancient grudge between the First Beast Prince and the seven Wolves who tried to overthrow him. Baited by a trail of dead werewolves and tracking a particularly cunning Wolf with its own agenda, Sylvester journeys across the world–from Belize to Botswana, Morocco to Malta, and Cyprus into the Himalaya on the most important hunt of his life, one that will lead him into the very lair of the Beast and to the werewolf who was once his mother. Here is one last, unflinching entry in the Autobiography of a Werewolf Hunter–a final measure of redemptive violence where every victory is dearly purchased and honor is poisoned by shame. Don’t look away." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "Brian P. Easton"^^schema:author ] ;
+    schema:datePublished "April 21st 2015"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "2940151640046"^^schema:ISBN ;
+    schema:name "The Lineage (Autobiography of a Werewolf Hunter Book 3)" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price [ ] ;
+            schema:nook_price [ ] ;
+            schema:paper_price [ ] ] ;
+    schema:publisher "Permuted Press, Permuted Press"^^schema:publisher ;
+    schema:rating "4.46"^^schema:contentRating .
+
+schema:915.101 a schema:Book ;
+    schema:abstract "teen idol of the 1950s who virtually invented the singer/songwriter/heartthrob combination that still tops pop music today, Paul Anka rocketed to fame with a slew of hits—from “Diana” to “Put Your Head on my Shoulder”—that earned him a place touring with the major stars of his era, including Chuck Berry, Jerry Lee Lewis, and Buddy Holly. He wrote Holly’s last hit, and just missed joining the rocker on his final, fatal plane flight. Anka also stepped in front of the camera in the teen beach-party movie era, scoring the movies and romancing their starlets, including Annette Funicello. When the British invasion made his fans swoon for a new style of music—and musician--Anka made sure he wasn’t conquered. A rapier-canny businessman and image-builder who took his career into his own hands—just as he had from the very beginning, swiping his mother’s car at fourteen to drive himself, underage, to his first gigs in Quebec—Anka toured the world until he could return home in triumph. A charter member of the Rat Pack, he wrote the theme music for The Tonight Show as well as his friend Frank Sinatra’s anthem “My Way”. By the 1970s, a multi-decade string of pop chart-toppers, including “Puppy Love” and “(You’re) Having My Baby”, cemented his status as an icon. My Way is bursting with rich, rollicking stories of the business and the people in Anka’s life: Elizabeth Taylor, Dodi Fayed, Tom Jones, Michael Jackson, Adnan Khashoggi, Little Richard, Brooke Shields, Johnny Roselli, Sammy Davis, Jr., Brigitte Bardot, Barnum & Bailey Circus acrobats, and many more. Anka is forthcoming, funny and smart as a whip about the business he’s been in for almost six decades. My Way moves from New York to Vegas, from the casino stage to backstages all over the world. It’s the most entertaining autobiography of the year." ;
+    schema:author [ a rdf:Bag ;
+            schema:author "David Dalton"^^schema:author,
+                "Paul Anka"^^schema:author ] ;
+    schema:datePublished "April 9th 2013"^^schema:datePublished ;
+    schema:isbn "nan"^^schema:ISBN ;
+    schema:isbn13 "9781250035202"^^schema:ISBN ;
+    schema:name "My Way: An Autobiography" ;
+    schema:price [ a rdf:Bag ;
+            schema:audio_price [ ] ;
+            schema:hard_price "$21.42"^^schema:price ;
+            schema:nook_price "$9.99"^^schema:price ;
+            schema:paper_price "$14.49"^^schema:price ] ;
+    schema:publisher "St. Martin's Press, St. Martin's Press"^^schema:publisher ;
+    schema:rating "2.91"^^schema:contentRating .
+
